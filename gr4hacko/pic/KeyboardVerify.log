@@ -1,4 +1,4 @@
-    WARNING: É (U+00c9) is already defined more than once on the keyboard (on VK_0, ShiftState 'SGCAPS' and VK_0, ShiftState 'Shift+Ctl+Alt').
+﻿    WARNING: É (U+00c9) is already defined more than once on the keyboard (on VK_0, ShiftState 'SGCAPS' and VK_0, ShiftState 'Shift+Ctl+Alt').
     WARNING: Ě (U+011a) is already defined more than once on the keyboard (on VK_2, ShiftState 'SGCAPS' and VK_2, ShiftState 'Shift+Ctl+Alt').
     WARNING: T (U+0054) is already defined more than once on the keyboard (on VK_3, ShiftState 'Shift+Ctrl' and VK_2, ShiftState 'Shift+Ctrl').
     WARNING: Š (U+0160) is already defined more than once on the keyboard (on VK_3, ShiftState 'SGCAPS' and VK_3, ShiftState 'Shift+Ctl+Alt').
@@ -56,7 +56,7 @@
     WARNING: + (U+002b) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Shift' and VK_1, ShiftState 'Ctl+Alt').
     WARNING: * (U+002a) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Ctl+Alt' and VK_8, ShiftState 'Shift').
     WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Shift+Ctl+Alt' and VK_6, ShiftState 'Shift').
-    WARNING: ? (U+003f) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Shift+SGCAPS' and VK_OEM_COMMA, ShiftState 'Shift').
+    WARNING: ? (U+003f) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'SGCAPS' and VK_OEM_COMMA, ShiftState 'Shift').
     WARNING: m (U+006d) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift+Ctrl' and VK_M, ShiftState 'Base').
     WARNING: ; (U+003b) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Ctl+Alt' and VK_OEM_1, ShiftState 'Base').
     WARNING: [ (U+005b) is already defined more than once on the keyboard (on VK_OEM_4, ShiftState 'Base' and VK_F, ShiftState 'Ctl+Alt').
