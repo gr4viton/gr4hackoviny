@@ -2,13 +2,15 @@
 Už jste si někdy taky lámali hlavu s tím jak zefektivnit své psaní kódu abyste nemuseli stále přepínat z českého rozložení do anglického?
 
 Upravené rozložení klávesnice: 
+
 = Anglická QERTY + česká diakritika (? atp. z české a pár dalších vyjímek) 
-- háčky a čárky jsou schovány pod písmenky které diakritizují při zmáčknutí AltGr
- -- č je pod c
- -- Ť je pod T
- -- atd.
-- časově efektivní verze
- -- po týdnu už jsem tohle rozložení nechtěl opustit (to pro vás nemusí platit ;) )
+
+* háčky a čárky jsou schovány pod písmenky které diakritizují při zmáčknutí AltGr (nebo Ctrl+Alt)
+ * č je c + AltGr 
+ * Ť je t + Shift + AltGr
+ * atd.
+* časově efektivní verze
+ * po týdnu už jsem tohle rozložení nechtěl opustit (to pro vás nemusí platit ;) )
  
 Rozložení bylo vytvořeno v programu [Microsoft Keyboard Layout Creator v1.3]
 https://msdn.microsoft.com/en-us/goglobal/bb964665.aspx
